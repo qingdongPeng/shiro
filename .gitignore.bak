@@ -1,33 +1,21 @@
 # Created by .ignore support plugin (hsz.mobi)
 .gitignore
 
-# Operating System Files 
-
-*.DS_Store 
-Thumbs.db 
-*.sw? 
-.#* 
-*# 
-*~ 
-*.sublime-* 
-
-# Build Artifacts 
+# Operating System Files
 
 .gradle/
 build/
 target/
 bin/
-dependency-reduced-pom.xml 
+dependency-reduced-pom.xml
 
-# Eclipse Project Files 
 
 .classpath
 .project
-.settings/ 
+.settings/
 
-# IntelliJ IDEA Files 
-
+*.bak
 *.iml
-*.ipr 
-*.iws 
-*.idea 
+*.ipr
+*.iws
+*.idea
