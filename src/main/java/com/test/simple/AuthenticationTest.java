@@ -17,6 +17,7 @@ import org.junit.Test;
 public class AuthenticationTest
 {
 
+
     SimpleAccountRealm simpleAccountRealm = new SimpleAccountRealm();
 
     @Before
